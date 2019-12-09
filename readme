@@ -1,0 +1,10 @@
+### Naredi virtualno okolje                                   "python3 -v venv venv" drugi venv je ime direktorija z virtualnim okoljem python
+### Za aktiviranje virtualnega okolja v terminalu zaženi      "source venv/bin/activate"
+### Namesti vse knjižnice v datoteki requirements             "pip install -r requirements"
+
+
+Applikacija se običajno deli na tri dele: 
+
+models - baza objekti ...
+controler - logika ki kontrolira
+View - prikaže vse kar dobi od controleja
